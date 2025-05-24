@@ -38,6 +38,7 @@ body{
     position: fixed;
     z-index: 1;
     object-fit: cover;
+    height: 40vh;
 }
 
 /** ===================== heading ====================== */
@@ -74,5 +75,8 @@ body{
 
 .answer{
     font-weight: 300;
+    display: none;
 }
+
+
 
